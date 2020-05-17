@@ -13,3 +13,6 @@ Challenge instructions:
 5. Create a boolean variable that assigns the value true if the remainder in #4 is 0, false if it's not zero.
 6. Output the boolean variable.
 7. Write an if-then statement that displays a message "Got some remainder" if the boolean in step 5 is not true.
+
+
+Created using Intellij IDE
